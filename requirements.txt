@@ -1,0 +1,22 @@
+Cython
+matplotlib
+nibabel
+numpy
+Pillow
+psutil
+pyserial
+scikit-image
+scipy
+
+# Not in PyPI
+#casmoothing # Not a dependency anymore
+#gdcm
+#vtk6
+#vtkgdcm
+# Their dependencies:
+autobahn
+mpi4py
+twisted
+
+#wxpython
+#wxversion
